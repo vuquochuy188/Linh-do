@@ -16,7 +16,7 @@ Vì anh đã trao dần`,
     question:'Trên thế giới hơn 7 tỉ người mà sao c lại yêu t <3',
     btnReply: 'Gửi cho Huy nhé <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu :v.',
-    mess: 'T biết mà 🥰. Yêu c nhiều nhiều 😘😘',
+    mess: 'T biết mà, t cũng yêu c <3',
     messDesc: 'Tối nay 23h t qua bắt cóc đem về nhé :v, Không ra đêm t kéo chân đấy',
     btnAccept: 'Oke luôn <3',
     messLink: 'https://www.facebook.com/messages/t/100018623115795' //link mess của các bạn. VD: https://m.me/nam.nodemy
