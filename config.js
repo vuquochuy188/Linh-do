@@ -17,7 +17,7 @@ Vì anh đã trao dần`,
     btnReply: 'Gửi cho Huy nhé <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu :v.',
     mess: 'T biết mà 🥰. Yêu c nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 23h t qua đón nhé đi lượn nhé :v. Giờ thì quay lại thôi',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Tối nay 23h t qua bắt cóc đem về nhé :v, Không ra đêm t kéo chân đấy',
+    btnAccept: 'Oke luôn <3',
     messLink: 'https://www.facebook.com/messages/t/100018623115795' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
