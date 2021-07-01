@@ -9,7 +9,7 @@ Và em đến đâу đi
 Tình anh sẽ không phai mờ
 Vì anh đã trao dần`,
     btnIntro: 'xiaxia',
-    title: 'Phải chăng Linh đang muốn đi trốn cùng với t',
+    title: 'Phải chăng Linh đang muốn đi trốn cùng với anh',
     desc: 'Nợ nần nhiều quá thì bảo bố mẹ bán cho t nhé, về t nuôi =)) ',
     btnYes: 'Vẫn cứ là trốn cùng Huy',
     btnNo: 'Ko, điêu quen :)',
