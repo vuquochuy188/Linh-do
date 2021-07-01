@@ -18,6 +18,6 @@ Vì anh đã trao dần`,
     reply: 'Yêu thì yêu mà không yêu thì yêu :v.',
     mess: 'T biết mà, t cũng yêu Linh nhé <3',
     messDesc: 'Tối nay 23h t qua bắt cóc đem về nhé :v, Không ra đêm t kéo chân đấy',
-    btnAccept: 'Oke luôn <3',
+    btnAccept: 'Oke luôn <33',
     messLink: 'https://www.facebook.com/messages/t/100018623115795' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
