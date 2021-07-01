@@ -10,7 +10,7 @@ Tình anh sẽ không phai mờ
 Vì anh đã trao dần`,
     btnIntro: 'xiaxia',
     title: 'Phải chăng Linh đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng Linh đã say ngay từ lúc thấy nụ cười ấy ',
+    desc: 'Nợ nần nhiều quá thì bảo bố mẹ bán cho t nhé =)) ',
     btnYes: 'Vẫn cứ là thích Huy <33',
     btnNo: 'Ko, điêu quen :)',
     question:'Trên thế giới hơn 7 tỉ người mà sao c lại yêu t <3',
